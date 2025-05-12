@@ -1,0 +1,15 @@
+torch
+transformers
+pandas
+fastapi
+uvicorn
+datasets
+scikit-learn
+datasets
+transformers
+accelerate
+feedparser
+streamlit
+spacy
+transformers
+apscheduler
